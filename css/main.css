@@ -1,11 +1,14 @@
 html {
   box-sizing: border-box;
-  line-height: 1.5;
   font: normal 100%/1.5 sans-serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+body {
+  background-color: #fff;
 }
 
 div {
